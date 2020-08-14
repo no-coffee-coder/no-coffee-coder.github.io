@@ -22,7 +22,7 @@
 }
 
 /*image satart here*/
-img { max-width: 100%; height: auto; }
+/*img { max-width: 100%; height: auto; }*/
 
 @media (min-device-width:600px) {
     img[data-src-600px] {
